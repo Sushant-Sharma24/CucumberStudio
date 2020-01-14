@@ -1,0 +1,21 @@
+---
+- name: User Has Accessed Facebook Page
+  uid: aeaf777f-21a6-4978-83c7-2156975b6537
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Is Able To View User Name Text Field
+  uid: aba30101-b935-4668-a02f-bcf6dec11aef
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Enter Valid User Name
+  uid: c47dbf31-c703-45bf-967e-ff4f641a728f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Enter Valid Password
+  uid: bd968b22-6d52-439a-8a16-a4d3f5454bb9
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Is Navigated To Facebook Logged In
+  uid: dd4a4168-4477-4c0b-92b0-ea7eeeb8917d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
